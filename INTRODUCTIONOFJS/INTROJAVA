@@ -1,0 +1,66 @@
+/*
+
+  JAVA :JAVA is a programming language,it is a high-level language,  
+        object-oriented programming language.
+
+        JAVA -programming language is developed by "sun microsystens" in "1995"
+        (now owned by oracle corpration).
+
+        Java is secure.
+
+        It Built-in security features for safe execution, especially in networked environment.
+
+        Java it is multithread for buildingresponsive and high-performance apps.
+
+        It is known for its "platform independence" robustness and scalability.
+
+        Most popular for building applications.
+
+        Java is a platform because it can run on any device with a " JAVA VIRTUAL MACHINE ".
+
+        Java is a compiled & interpreted code is compiled into bytecode which is executed by the " JVM ".
+
+        In java data types must be declared, catching many errors at compile time.
+
+        Java has Garbage collection that handles memorey allocation and cleanup.
+
+SYNTAX :
+
+         System.out.println(" ");
+
+       Eg : System.out.println("Hello World");
+
+EXAMPLE : Write program on hello world in java ?
+
+    CODE :
+
+        Public class Hello World
+          {
+            Public static void main(String[] args)
+            {
+              System.out.println("Hello World");  
+            }
+          }
+
+    OUTPUT : 
+
+        Hello World
+
+
+    Why Java is statically typed ?
+
+        The variables were checked at compile time.
+
+        # int number=10;
+        # string name="Harini";
+
+    Why Java is platform independence?
+
+        The program can run in any operating system like 
+        [Windows, Mac, Linux,etc]
+
+    # Java is a backend programming language.
+
+    # In springboot,web applications it performs as a frontend.    
+                                                    
+*/                                                    

@@ -3,26 +3,26 @@
   JAVA :JAVA is a programming language,it is a high-level language,  
         object-oriented programming language.
 
-        JAVA -programming language is developed by "sun microsystens" in "1995"
-        (now owned by oracle corpration).
+    ==>    JAVA -programming language is developed by "sun microsystens" in "1995"
+           (now owned by oracle corpration).
 
-        Java is secure.
+    ==>    Java is secure.
 
-        It Built-in security features for safe execution, especially in networked environment.
+    ==>    It Built-in security features for safe execution, especially in networked environment.
 
-        Java it is multithread for buildingresponsive and high-performance apps.
+    ==>    Java it is multithread for buildingresponsive and high-performance apps.
 
-        It is known for its "platform independence" robustness and scalability.
+    ==>    It is known for its "platform independence" robustness and scalability.
 
-        Most popular for building applications.
+    ==>    Most popular for building applications.
 
-        Java is a platform because it can run on any device with a " JAVA VIRTUAL MACHINE ".
+    ==>    Java is a platform because it can run on any device with a " JAVA VIRTUAL MACHINE ".
 
-        Java is a compiled & interpreted code is compiled into bytecode which is executed by the " JVM ".
+    ==>    Java is a compiled & interpreted code is compiled into bytecode which is executed by the " JVM ".
 
-        In java data types must be declared, catching many errors at compile time.
+    ==>    In java data types must be declared, catching many errors at compile time.
 
-        Java has Garbage collection that handles memorey allocation and cleanup.
+    ==>    Java has Garbage collection that handles memorey allocation and cleanup.
 
 SYNTAX :
 
@@ -49,14 +49,15 @@ EXAMPLE : Write program on hello world in java ?
 
     Why Java is statically typed ?
 
-        The variables were checked at compile time.
+    ==>  The variables were checked at compile time.
 
         # int number=10;
+        
         # string name="Harini";
 
     Why Java is platform independence?
 
-        The program can run in any operating system like 
+    ==> The program can run in any operating system like 
         [Windows, Mac, Linux,etc]
 
     # Java is a backend programming language.

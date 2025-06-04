@@ -3,10 +3,7 @@ let num;
 num=20;
 console.log(num);
 var num;
-
-
 num=56;
-
 
 let n;
 n=23;

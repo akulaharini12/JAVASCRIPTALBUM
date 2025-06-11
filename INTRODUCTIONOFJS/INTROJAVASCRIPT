@@ -25,15 +25,31 @@ JAVA SCRIPT : It is a programming language.
 
         Why JAVA SCRIPT is an Interpreted language ?
 
-          ==> JAVASCRIPT is an Interpreted language because its code is typically executed directly by the browser
+          ==> JAVA SCRIPT is an Interpreted language because its code is typically executed directly by the browser
               without a seprate compilation step.
           
-          ==> Here instead of compiling the total program it runs the code line by line.     
+          ==> Here instead of compiling the total program it runs the code line by line.
 
-        
+        Why JAVA SCRIPT is an Dynamically Typed ?
 
-                  
+          ==> In JAVA SCRIPT we dont need to declare the type of a varibale and also type of variables can change at runtime.
 
-    
+          EXAMPLE : 
+          
+                let x=10;----------> x is a number.
 
-        
+                x="hello";---------> x is a string.
+
+                x = true;----------> x is a Boolean.
+
+        Is JAVA SCRIPT is front end or back end ?
+
+          ==> JAVA SCRIPT is both front end and back end because front end in web application / browsers --> (client side)  
+
+          ==> Back end in full stack program with tools like 
+                      Node.js --> (server side)  development.
+
+    SYNTAX OF JAVA SCRIPT :
+
+              Console.log(" ");
+              

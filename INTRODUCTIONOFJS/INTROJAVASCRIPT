@@ -52,4 +52,18 @@ JAVA SCRIPT : It is a programming language.
     SYNTAX OF JAVA SCRIPT :
 
               Console.log(" ");
+
+    Example : 
+    
+              Console.log("Hello World");
+
+    --> API -- Application Programming Interface.
+                    ||
+                 It is for updating.
+
+    SYNCRONOUS -- In javascript it will perform line by line.
+
+    ASYNCRONOUS -- It can changes to  SYNCRONOUS.                         
+             
+                       
               

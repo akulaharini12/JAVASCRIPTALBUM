@@ -23,12 +23,15 @@ JAVA SCRIPT : It is a programming language.
 
             ==>  It is a interpreted language it executes code line by line providing more flexibility.
 
+
+
         Why JAVA SCRIPT is an Interpreted language ?
 
           ==> JAVA SCRIPT is an Interpreted language because its code is typically executed directly by the browser
               without a seprate compilation step.
           
           ==> Here instead of compiling the total program it runs the code line by line.
+
 
         Why JAVA SCRIPT is an Dynamically Typed ?
 
@@ -41,6 +44,8 @@ JAVA SCRIPT : It is a programming language.
                 x="hello";---------> x is a string.
 
                 x = true;----------> x is a Boolean.
+
+
 
         Is JAVA SCRIPT is front end or back end ?
 
@@ -57,13 +62,30 @@ JAVA SCRIPT : It is a programming language.
     
               Console.log("Hello World");
 
+
     --> API -- Application Programming Interface.
                     ||
                  It is for updating.
 
     SYNCRONOUS -- In javascript it will perform line by line.
 
-    ASYNCRONOUS -- It can changes to  SYNCRONOUS.                         
+    ASYNCRONOUS -- It can changes to  SYNCRONOUS.
+
+
+                             VERSIONS OF JAVASCRIPT
+
+    1. ES1 to ES5
+       -> DOM Manuplications and Functions. 
+
+    2. ............. sooo onnn we have to write..........
+
+
+                             IMPLIMENTATION IN JAVASCRIPT TYPES     
+                             
+                                                               
+
+
+
              
                        
               
